@@ -58,23 +58,12 @@ Real-time data workflows · System design · Better developer experience
 ## GitHub activity
 
 <p>
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=kunwarrohit&amp;show_icons=true&amp;hide_border=true&amp;rank_icon=github&amp;theme=transparent"
-    alt="Kunwar's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunwarrohit&amp;layout=compact&amp;hide_border=true&amp;theme=transparent"
-    alt="Kunwar's top languages"
-  />
-</p>
-
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=kunwarrohit&amp;hide_border=true&amp;background=FFFFFF00"
-    alt="Kunwar's GitHub contribution streak"
-  />
+  <a href="https://github.com/kunwarrohit?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
+      alt="View GitHub repositories"
+    />
+  </a>
 </p>
 
 ---
