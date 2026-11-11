@@ -60,8 +60,8 @@ Real-time data workflows · System design · Better developer experience
 ## GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kunwarrohit&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Kunwar's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunwarrohit&layout=compact&hide_border=true&theme=transparent" alt="Kunwar's top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=kunwarrohit&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Kunwar's GitHub statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kunwarrohit&layout=compact&hide_border=true&theme=transparent" alt="Kunwar's top languages" />
 </p>
 
 <p>
