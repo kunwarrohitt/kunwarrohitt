@@ -58,7 +58,7 @@ Real-time data workflows · System design · Better developer experience
 ## GitHub activity
 
 <p>
-  <a href="https://github.com/kunwarrohit?tab=repositories">
+  <a href="https://github.com/kunwarrohitt?tab=repositories">
     <img
       src="https://img.shields.io/badge/GitHub-View%20Repositories-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"
       alt="View GitHub repositories"
